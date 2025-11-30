@@ -27,4 +27,4 @@ TeamSync Live is a simple real-time chat application built with Node.js and Sock
 - Real-time chat communication using WebSockets
 - Automatically deployed via CI/CD pipeline on each commit
 - Hosted on cloud with uptime monitoring
-- Lightweight and scalable<img width="1919" height="982" alt="image" src="https://github.com/user-attachments/assets/e7d8c8c5-f38a-49d5-b4c6-cf06589d2e78" />
+- Lightweight and scalable
